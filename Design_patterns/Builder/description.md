@@ -1,7 +1,7 @@
 > description by `@flis0`\
 > implementation by `@iwonieevo`
 
-### Design pattern: Builder
+## Design pattern: Builder
 
 **Builder** replaces complex constructor arguments or a need for multiple subclasses to achieve a configurable object with optional, multi-choice parameters
 
@@ -54,14 +54,12 @@ hb.addGarden()
 hb.addGarage(spots=2)
 ```
 
-### Task
+## Task
 
 Create a builder class for building SQL queries and prompt user for each input. Pass the inputs to the builder class and use it to generate the full SQL query.
 
-
-*AI translation*
-
-### Wzorzec projektowy: Builder
+## Wzorzec projektowy: Builder
+*AI translation to PL*
 
 **Builder** zastępuje złożone argumenty konstruktora lub konieczność tworzenia wielu podklas w celu uzyskania konfigurowalnego obiektu z opcjonalnymi, wielowariantowymi parametrami.
 

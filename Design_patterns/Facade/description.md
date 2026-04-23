@@ -1,4 +1,4 @@
-> **description.md** by `@iwonieevo`
+> **description.md** by `@iwonieevo`\
 > **implementation.py** by `@flis0`
 
 # Fasada
